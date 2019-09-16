@@ -4,7 +4,7 @@ List of indicators:
 
 
 
-List of columns for analysis:
+List of columns for future analysis:
 
 A05. Which activities do you participate/d in?
 C01a.Is your family orignaly from  Herat(or Jalalabad) city?
