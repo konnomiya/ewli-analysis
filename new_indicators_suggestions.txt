@@ -7,10 +7,11 @@ List of indicators:
 List of columns for future analysis:
 
 A05. Which activities do you participate/d in?
-C01a.Is your family orignaly from  Herat(or Jalalabad) city?
-D01. What are the reasons for your displacement?
 A06. If VT- which one?
 A07. if VT yes- have the training finished already? 
 A08. If SHG- How long are you a member of your SHG (in months)?
 A08. If SHG- How long are you a member of your SHG (in months)?
 
+C01a.Is your family orignaly from  Herat(or Jalalabad) city?
+
+D01. What are the reasons for your displacement?
